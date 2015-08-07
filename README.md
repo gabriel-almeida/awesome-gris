@@ -1,29 +1,29 @@
 Awesome GRIS
 ======
 
-Latex
+Básicos
+-----
 
-Linux
+* Boas praticas de segurança
+* Latex
+* GNU/Linux
+* Criptografia
+* Redes de computadores
+* Montagem e Manutenção
+* Segurança OS
+* Engenharia Social
 
-Segurança OS
+Auditoria
+--------
 
-Criptografia
-
-Rede
-
-Boas praticas de segurança
-
-Montagem e Manutenção
-
-Forense Computacional
-
-Resposta a Incidentes e Auditoria
-
-Engenharia Social
+* Forense Computacional
+* Resposta a Incidentes e Auditoria
+* Etical Hacking
+* Estudo de vulnerabilidade e incidentes
 
 Programaçao Segura
 
-Etical Hacking
+
 
 Leis Ciberneticas
 
@@ -33,7 +33,7 @@ Redes TOR
 
 IPS/IDS
 
-Estudo de vulnerabilidade e incidentes
+
 
 Coleta de Informação
 
