@@ -1,30 +1,49 @@
 Latex
+
 Linux
+
 Segurança OS
+
 Criptografia
+
 Rede
-Boas praticas
+
+Boas praticas de segurança
+
 Montagem e Manutenção
 
 Forense
+
 Resposta a Incidentes e Auditoria
+
 Engenharia Social
-Programação
+
 Programaçao Segura
+
 Etical Hacking
-Métodos de Pesquisa
+
 Leis Ciberneticas
+
 Vulnerabilidade WEB
-Rede TOR
+
+Redes TOR
+
 Estudo de vulnerabilidade e incidentes
+
 Coleta de Informação
+
 Segurança Mobile
+
 Segurança Wifi
-arquitetura de computadores
-eletronica basica
-Cartões NFC
+
+Arquitetura de computadores
+
+Eletronica básica
+
 Segurança de Hardware
+
 Pen test
+
 Biohacking
-Lock Picking
+
 Ciberguerra
