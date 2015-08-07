@@ -1,4 +1,4 @@
-tex
+Latex
 Linux
 Segurança OS
 Criptografia
@@ -22,18 +22,9 @@ Segurança Mobile
 Segurança Wifi
 arquitetura de computadores
 eletronica basica
-Meditação e Relaxamento
 Cartões NFC
 Segurança de Hardware
 Pen test
-Life hacking
-Sleep hacking
 Biohacking
 Lock Picking
-Parkour
-B
-B
-B
-B
-A
-Cyberguerra
+Ciberguerra
