@@ -1,3 +1,6 @@
+Awesome GRIS
+======
+
 Latex
 
 Linux
@@ -12,7 +15,7 @@ Boas praticas de segurança
 
 Montagem e Manutenção
 
-Forense
+Forense Computacional
 
 Resposta a Incidentes e Auditoria
 
@@ -27,6 +30,8 @@ Leis Ciberneticas
 Vulnerabilidade WEB
 
 Redes TOR
+
+IPS/IDS
 
 Estudo de vulnerabilidade e incidentes
 
@@ -47,3 +52,15 @@ Pen test
 Biohacking
 
 Ciberguerra
+
+Topologias de rede
+
+Infraestrutura de segurança
+
+Segurança em grandes eventos
+
+Analise de Malware
+
+Monitoramento de redes
+
+Teste de carga
