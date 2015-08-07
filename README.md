@@ -1,6 +1,8 @@
 Awesome GRIS
 ======
 
+Brainstorming de temas para serem abordados na área de Segurança da Informação, com possíveis materiais relacionados.
+
 Básicos
 -----
 
