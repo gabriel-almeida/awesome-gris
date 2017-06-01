@@ -6,8 +6,8 @@ Brainstorming de temas para serem abordados na área de Segurança da Informaç�
 Básicos
 -----
 
-* Boas praticas de segurança
-* Latex
+* Boas práticas de segurança
+* LaTeX
 * GNU/Linux
 * Criptografia
 * Redes de computadores
@@ -21,11 +21,12 @@ Auditorias
 
 * Forense Computacional
 * Resposta a Incidentes e Auditoria
-* Etical Hacking
-* Estudo de vulnerabilidade e incidentes
+* Ethical Hacking
+* Estudo de Vulnerabilidade e Incidentes
 * Teste de carga
 * Analise de Malware
-* Pen test
+* Pentest
+* Detecção e Análise de Vulnerabilidades
 
 
 Programação
@@ -42,7 +43,8 @@ Redes e infraestrutura
 * Topologias de rede
 * Infraestrutura de segurança
 * Monitoramento de redes
-* Segurança Wifi
+* Segurança WiFi
+* Firewall
 
 
 Hardware
@@ -59,3 +61,6 @@ Extras
 * Segurança em grandes eventos
 * Leis Ciberneticas
 * Redes TOR e Deepweb
+* Ransomware
+* Banker
+* Criptografia Quântica
